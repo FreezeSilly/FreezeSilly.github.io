@@ -6,10 +6,14 @@ a{
   background-color: transparent;
   text-decoration: none;
   padding: 4px;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 .NovelLinks {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
+.NovelLinks>ul{
+  padding: 5px;
+}
+  
