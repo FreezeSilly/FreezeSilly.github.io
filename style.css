@@ -2,13 +2,6 @@
 text-align: center;
   background-color: black;
 }
-a{
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-  padding: 4px;
-  font-size: 3rem;
-}
 .NovelLinks {
   list-style-type: none;
   margin: 0;
