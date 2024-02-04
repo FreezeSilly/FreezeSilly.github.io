@@ -4,11 +4,16 @@ text-align: center;
 }
 .NovelLinks {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
 }
 .NovelLinks>li{
   padding: 1rem;
+}
+a{
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+  padding: 4px;
+  font-size: 3rem;
 }
 .reference{
   color: white;
